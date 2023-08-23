@@ -1,2 +1,2 @@
 # js-projects
-This repository contains JavaScript exercises that I've done.
+This repository contains Html,CSS,JavaScript exercises that I've done.
